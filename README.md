@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=90"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie2779&label=Profile%20views&color=0e75b6&style=flat" alt="jamie2779" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Jaemin%20Park&fontSize=90"/>
 
 <h1 align="center">Hi 👋, I'm Jaemin Park</h1>
-<h3 align="center">KNU SCE 24 / Data Scientist</h3>
+<h3 align="center">KNU SCE 24 / Data Scientist, Web Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie2779&label=Profile%20views&color=0e75b6&style=flat" alt="jamie2779" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie2779" alt="jamie2779" /></a> </p>
 
