@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Jaemin%20Park&fontSize=90"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie2779&label=Profile%20views&color=0e75b6&style=flat" alt="jamie2779" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jamie2779&label=Profile%20views&color=0e75b6&style=flat" alt="jamie2779" /> </p>
 
 <h3 align="left">KNU SCE 24 / Data Scientist</h3>
 
