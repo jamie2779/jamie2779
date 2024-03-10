@@ -215,7 +215,7 @@
 
 <hr>
 
-그 외에도 여러개...
+그 외 다양한 데이터분석 프로젝트(추후 추가 예정)...
 
 <br>
 <h2 align="center"><b>:hammer: &nbsp;Group Projects</b></h2>
