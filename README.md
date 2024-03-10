@@ -4,11 +4,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie2779" alt="jamie2779" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamie2779&show_icons=true&locale=en&layout=compact" alt="jamie2779" /></p>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamie2779)](https://solved.ac/jamie2779)
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamie2779&show_icons=true&locale=en&layout=compact" alt="jamie2779" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie2779&show_icons=true&locale=en" alt="jamie2779" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie2779&" alt="jamie2779" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie2779&" alt="jamie2779" /></p>-->
 
 <h3 align="center"><b>:hammer: &nbsp;My Development Tools</b></h3>
 <h4>:keyboard: &nbsp;Programming and Markup Languages</h4>
