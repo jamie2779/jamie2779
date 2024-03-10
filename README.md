@@ -162,12 +162,65 @@
     ![image](https://github.com/jamie2779/jamie2779/assets/56078563/c9128eb3-a75c-41ca-a711-bda236aedbb0)
   </details>
 
-  
-  
+<hr>
+
+### 구암고 시간표 제작 서비스(2022.02.23)
+- 구암고 학생들의 선택과목 정보를 이용하여 개인별 시간표 제작 및 다운로드
+- nodejs 사용, template 기능 자체 제작
+- 소스코드: 추가 예정
+
+<hr>
+
+### 생기부 글자 수 세기 사이트 (2022.06.21)
+- 고등학교 생기부 작성시 적용되는 byte 계산법으로 글자 수를 세어주는 사이트
+- 소스코드: [jamie2779/schoolTextLength](https://github.com/jamie2779/schoolTextLength)
+- 웹사이트: [school-text-length.kro.kr](http://school-text-length.kro.kr/)
+
+<hr>
+
+### Tetris With Vue.js - Vue.js를 이용한 테트리스 제작(2023.01.19)
+- Vue.js를 이용하여 기본적인 테트리스 구현
+- 소스코드: [jamie2779/tetris](https://github.com/jamie2779/tetris)
+- 웹사이트: [jamie2779.github.io/tetris/](https://jamie2779.github.io/tetris/)
+
+<hr>
+
+### Ideal Worldcup Clone - 이상형 월드컵 사이트 (2023.01.22)
+- 이상형 월드컵 사이트를 비슷하게 구현
+- 친구에게 웹 개발을 알려주기 위해 진행한 프로젝트
+- 소스코드: 친구들의 사진을 사용했기 때문에 초상권 문제로 비공개
+
+<hr>
+
+### HumanBenchmark Clone - 반응속도 테스트 사이트 (2023.01.25)
+- HumanBenchmark 사이트의 반응속도 테스트를 비슷하게 구현
+- 친구에게 웹 개발을 알려주기 위해 진행한 프로젝트
+- 소스코드: [jamie2779/HumanBenchmark](https://github.com/jamie2779/HumanBenchmark)
+- 웹사이트: [jamie2779.github.io/HumanBenchmark/](https://jamie2779.github.io/HumanBenchmark/)
+
+<hr>
+
+### Aim Trainer Clone - 에임 연습 사이트 (2023.01.31)
+- HumanBenchmark 사이트의 에임연습을 비슷하게 구현
+- 친구에게 웹 개발을 알려주기 위해 진행한 프로젝트
+- 소스코드: [jamie2779/aimTrainer](https://github.com/jamie2779/aimTrainer)
+- 웹사이트: [jamie2779.github.io/aimTrainer/](https://jamie2779.github.io/aimTrainer/)
+
+<hr>
+
+### 큐브 타이머 (2023.08.24)
+- HTML, CSS, JS를 이용하여 만든 단일페이지 큐브 타이머 및 기록 시스템
+- 소스코드: [jamie2779/cubeTimer](https://github.com/jamie2779/cubeTimer)
+- 웹사이트: [timer.cubingclub.kro.kr/](http://timer.cubingclub.kro.kr/)
+
+<hr>
+
+그 외에도 여러개...
+
 <br>
 <h2 align="center"><b>:hammer: &nbsp;Group Projects</b></h2>
 
-### RDMS(Rental Device Management System) - 영남대학교 컴퓨터학부 노트북 대여 관리 시스템(2023, 개발중단)
+### RDMS(Rental Device Management System) - 영남대학교 컴퓨터공학과 노트북 대여 시스템(2023, 개발중단)
 - with [@handbros](https://github.com/handbros)
 - 영남대학교 정보보안동아리 @xpert 프로젝트
 - Github Oraganization: [rdms-org](https://github.com/rdms-org)
