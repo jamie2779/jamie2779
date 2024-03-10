@@ -13,7 +13,7 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie2779&" alt="jamie2779" /></p>-->
 
-<h3 align="center"><b>:hammer: &nbsp;My Development Tools</b></h3>
+<h2 align="center"><b>:hammer: &nbsp;My Development Tools</b></h2>
 <h4>:keyboard: &nbsp;Programming and Markup Languages</h4>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
@@ -93,9 +93,92 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Tinkercad-1477D1?style=flat-square&logo=tinkercad&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white">
-
-
-
-
-
   </p>
+
+<br>
+<h2 align="center"><b>:hammer: &nbsp;Personal Projects</b></h2>
+
+### Unity와 Photon을 이용한 온라인 게임 개발(2020.08.15)
+- Photon을 활용한 RPC 구현, P2P 방식의 게임플레이 구현
+  <details> 
+    <summary>프로젝트 이미지 샷</summary>
+  
+    - 로비
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/2f0aeae8-3568-47d9-9374-bfbdda5de7dd)
+    - 채팅
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/68cd84c7-fe8d-402f-8266-f21d52b570cf)
+    - 인게임 플레이
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/67e89fa5-bfcb-4f06-b559-f82a9e19204d)
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/7c3881e3-1a96-4105-8e78-8776a814adc0)
+  </details>
+
+<hr>
+
+### Rain Bot - 구암고 시간표 확인 및 금칙어 게임 봇(2020.08.21)
+- Discord.py 활용, threading과 asyncio를 활용한 파이썬의 비동기 처리
+- 소스코드: [jamie2779/Rainbot](https://github.com/jamie2779/Rainbot)
+
+<hr>
+
+### BlueMoon Discord Bot - 고등학교 식단표 알림, 학교 정보 열람, 콘솔을 이용한 원격 대화, 채팅 로그기록 봇(2020.11.30)
+- 학교 등록 후 식단표 확인 가능
+- 콘솔 창을 이용하여 사용자와 디스코드 원격 대화 가능
+- discord.py 및 NEIS API 활용
+- 소스코드 비공개 : 개인 서버 관련 내용이 포함되어 있어서 비공개 처리
+  <details> 
+    <summary>프로젝트 이미지 샷</summary>
+  
+    - 급식 확인 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/443ea854-c848-4313-8adb-7b6992d81606)
+    - 학교 변경 가능   <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/84d0ca82-9473-44e1-a019-1f77cdd328fb)
+    - 조식, 중식, 석식 모두 출력 가능 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/de160347-8ef7-4c73-ace6-2f6ab9c1251e)
+    - 학교 정보 확인 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/2698b92d-636b-46c5-b3c2-efd7d5ef9249)
+    - 시험범위 확인 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/1e128ffd-273b-4f56-b58e-72de529e2d61)
+
+  </details>
+
+<hr>
+
+### Nemo Discord Bot - 반 배정 확인 및 자가진단 자동화 디스코드 봇(2022.02.17)
+- 브루트포싱을 이용하여 원하는 친구의 반 배정 결과 확인 가능
+- selenium을 이용하여 교육청 자가진단을 자동으로 수행 가능
+- 소스코드 백업을 안해둬서 이미지만 남아 있음....
+  <details> 
+    <summary>프로젝트 이미지 샷</summary>
+
+    - 반배정 확인 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/41e4db5f-355f-4136-9fb2-65ce0c9aa3e9)
+    - 도움말 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/ed14aa56-4c29-4080-9285-8f7d33819655)
+    - 자가진단 정보 등록 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/70c2decc-d75c-46b6-961a-07db38f74f04)
+    - 자가진단 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/0830828d-d526-460c-aff0-50e6ab81e678)
+    - 자가진단 자동화 <br>
+    ![image](https://github.com/jamie2779/jamie2779/assets/56078563/c9128eb3-a75c-41ca-a711-bda236aedbb0)
+  </details>
+
+  
+  
+<br>
+<h2 align="center"><b>:hammer: &nbsp;Group Projects</b></h2>
+
+### RDMS(Rental Device Management System) - 영남대학교 컴퓨터학부 노트북 대여 관리 시스템(2023, 개발중단)
+- with [@handbros](https://github.com/handbros)
+- 영남대학교 정보보안동아리 @xpert 프로젝트
+- Github Oraganization: [rdms-org](https://github.com/rdms-org)
+- 네이티브(C#): [rdms-org/rdms-device-controller](https://github.com/rdms-org/rdms-device-controller)
+- 백엔드(Flask): [rdms-org/rdms-backend](https://github.com/rdms-org/rdms-backend)
+- 프론트엔드(Vue.js): [rdms-org/rdms-backend](https://github.com/rdms-org/rdms-backend)
+
+<hr>
+
+### 2023 광진구 빅데이터 분석 공모전 - 불법 주정차 단속 현황 분석 및 해결책 제시(2023)
+- with 노성욱, [@KindKillerwhale](https://github.com/KindKillerwhale)
+- 데이터 분석 코드(Python): [민원 데이터 분석](https://colab.research.google.com/drive/1i6OusahRdKeFLEaC_wc6qOSuPAKZl4ND?usp=sharing), [교통데이터 분석](https://colab.research.google.com/drive/1o6aDD-G7Yrz6oqtzd5vMORkcWs0LWdwA?usp=sharing), [주차장 분석](https://colab.research.google.com/drive/1nAE7KuNeV6EG3TYkBF35Z7JJzVLQ3U_s?usp=sharing), [데이터 추합 및 시각화](https://colab.research.google.com/drive/1oDSSg_40Dhn64Rb0nxZ5xAGG1_q61DfH?usp=sharing)
+- 데이터 시각화 결과물 소스코드(HTML, CSS, JS): [메인페이지](https://github.com/jamie2779/parkingdata), [시각화 1](https://github.com/jamie2779/publicAndPolygon), [시각화 2](https://github.com/jamie2779/onlyPolygon), [시각화 3](https://github.com/jamie2779/onlyPublic), [시각화 4](https://github.com/jamie2779/publicAndPolygon)
+- 데이터 시각화 결과물: [jamie2779.github.io/parkingdata](https://jamie2779.github.io/parkingdata/)
