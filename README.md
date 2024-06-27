@@ -220,7 +220,7 @@
 <br>
 <h2 align="center"><b>:hammer: &nbsp;Group Projects</b></h2>
 
-### RDMS(Rental Device Management System) - 영남대학교 컴퓨터공학과 노트북 대여 시스템(2023)
+### (개발중단) RDMS(Rental Device Management System) - 영남대학교 컴퓨터공학과 노트북 대여 시스템(2023)
 - with [@handbros](https://github.com/handbros)
 - 영남대학교 정보보안동아리 @xpert 프로젝트
 - Github Oraganization: [rdms-org](https://github.com/rdms-org)
